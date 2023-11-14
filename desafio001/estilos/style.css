@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    font-size: 1em;
+    text-align: center;
+    background-color: rgb(1, 1, 44);
+    background-image: url(../imagens/moeda-bit1.jpg);
+   background-repeat: repeat-x;
+
+}
+   
+ h1 {
+    
+    padding: 50px ;
+    margin: 150px;
+    text-align: center bottom;
+    font-size: 2.5em;
+    text-decoration: underline;
+    color: white ;
+    
+ }   
+
+p {
+    font-size: 1.2em;
+    color: white ;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+
+a {
+    background-color:white;
+    font-weight: bold;
+    padding: 0px;
+    border: 1px solid white;
+    border-radius: 5px;
+    
+}
+
+img {
+    max-width: 600px;
+    height: 100px;
+    padding: 20px;
+    display: block;
+    margin: auto; 
+}
+
+a :hover {
+transition-duration: 0.5s;
+}
