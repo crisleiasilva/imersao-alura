@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #0000005b;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+ h1 { 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    font-weight:1.2em;
+    padding: 10px;
+}
+
+img {
+padding: 10px;
+max-height:350px ;
+}
+
